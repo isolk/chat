@@ -5,7 +5,7 @@ cd server
 go build
 ./server
 #or
-#./server :8088
+#./server -addr :8088
 ```
 
 ### 编译并运行客户端
